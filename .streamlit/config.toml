@@ -1,0 +1,6 @@
+[theme]
+base="dark"  # Options: "light", "dark"
+primaryColor="#4CAF50"  # Your team color
+secondaryBackgroundColor="#262730"  # Secondary background
+textColor="#FFFFFF"  # Text color
+font="sans serif"  # Options: "sans serif", "serif", "monospace"
